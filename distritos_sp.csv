@@ -1,97 +1,97 @@
-Código_IBGE,Distrito,Zona,Código_Subprefeitura,Subprefeitura
-1,Água Rasa,Leste,25,Mooca
-2,Alto de Pinheiros,Oeste,11,Pinheiros
-3,Anhanguera,Oeste,1,Perus
-4,Aricanduva,Leste,26,Aricanduva/Formosa/Carrão
-5,Artur Alvim,Leste,21,Penha
-6,Barra Funda,Centro,8,Lapa
-7,Bela Vista,Centro,9,Sé
-8,Belém,Leste,25,Mooca
-9,Bom Retiro,Centro,9,Sé
-10,Brás,Centro,25,Mooca
-11,Brasilândia,Oeste,3,Freguesia/Brasilândia
-12,Butantã,Oeste,10,Butantã
-13,Cachoeirinha,Oeste,4,Casa Verde/Cachoeirinha
-14,Cambuci,Sul,9,Sé
-15,Campo Belo,Sul,14,Santo Amaro
-16,Campo Grande,Sul,14,Santo Amaro
-17,Campo Limpo,Sul,17,Campo Limpo
-18,Cangaíba,Leste,21,Penha
-19,Capão Redondo,Sul,17,Campo Limpo
-20,Carrão,Leste,26,Aricanduva/Formosa/Carrão
-21,Casa Verde,Norte,4,Casa Verde/Cachoeirinha
-22,Cidade Ademar,Sul,16,Cidade Ademar
-23,Cidade Dutra,Sul,19,Capela do Socorro
-24,Cidade Líder,Leste,27,Itaquera
-25,Cidade Tiradentes,Leste,31,Cidade Tiradentes
-26,Consolação,Centro,9,Sé
-27,Cursino,Sul,13,Ipiranga
-28,Ermelino Matarazzo,Leste,22,Ermelino Matarazzo
-29,Freguesia do Ó,Oeste,3,Freguesia/Brasilândia
-30,Grajaú,Sul,19,Capela do Socorro
-31,Guaianases,Leste,28,Guaianases
-32,Moema,Sul,12,Vila Mariana
-33,Iguatemi,Leste,30,São Mateus
-34,Ipiranga,Sul,13,Ipiranga
-35,Itaim Bibi,Sul,11,Pinheiros
-36,Itaim Paulista,Leste,24,Itaim Paulista
-37,Itaquera,Leste,27,Itaquera
-38,Jabaquara,Sul,15,Jabaquara
-39,Jaçanã,Norte,6,Jaçanã/Tremembé
-40,Jaguará,Oeste,8,Lapa
-41,Jaguaré,Oeste,8,Lapa
-42,Jaraguá,Oeste,2,Pirituba
-43,Jardim Ângela,Sul,18,M'Boi Mirim
-44,Jardim Helena,Leste,23,São Miguel 
-45,Jardim Paulista,Sul,11,Pinheiros
-46,Jardim São Luis,Sul,18,M'Boi Mirim
-47,José Bonifácio,Leste,27,Itaquera
-48,Lapa,Oeste,8,Lapa
-49,Liberdade,Centro,9,Sé
-50,Limão,Oeste,4,Casa Verde/Cachoeirinha
-51,Mandaqui,Norte,5,Santana/Tucuruvi
-52,Marsilac,Sul,20,Parelheiros
-53,Moóca,Leste,25,Mooca
-54,Morumbi,Sul,10,Butantã
-55,Parelheiros,Sul,20,Parelheiros
-56,Pari,Centro,25,Mooca
-57,Parque do Carmo,Leste,27,Itaquera
-58,Pedreira,Sul,16,Cidade Ademar
-59,Penha,Leste,21,Penha
-60,Perdizes,Oeste,8,Lapa
-61,Perus,Oeste,1,Perus
-62,Pinheiros,Oeste,11,Pinheiros
-63,Pirituba,Oeste,2,Pirituba
-64,Ponte Rasa,Leste,22,Ermelino Matarazzo
-65,Raposo Tavares,Oeste,10,Butantã
-66,República,Centro,9,Sé
-67,Rio Pequeno,Oeste,10,Butantã
-68,Sacomã,Sul,13,Ipiranga
-69,Santa Cecília,Centro,9,Sé
-70,Santana,Norte,5,Santana/Tucuruvi
-71,Santo Amaro,Sul,14,Santo Amaro
-72,São Lucas,Leste,29,Vila Prudente
-73,São Mateus,Leste,30,São Mateus
-74,São Miguel,Leste,23,São Miguel 
-75,São Rafael,Leste,30,São Mateus
-76,Sapopemba,Leste,32,Sapopemba
-77,Saúde,Sul,12,Vila Mariana
-78,Sé,Centro,9,Sé
-79,Socorro,Sul,19,Capela do Socorro
-80,Tatuapé,Leste,25,Mooca
-81,Tremembé,Norte,6,Jaçanã/Tremembé
-82,Tucuruvi,Norte,5,Santana/Tucuruvi
-83,Vila Andrade,Sul,17,Campo Limpo
-84,Vila Curuçá,Leste,24,Itaim Paulista
-85,Vila Formosa,Leste,26,Aricanduva/Formosa/Carrão
-86,Vila Guilherme,Norte,7,Vila Maria/Vila Guilherme
-87,Vila Jacuí,Leste,23,São Miguel 
-88,Vila Leopoldina,Oeste,8,Lapa
-89,Vila Maria,Norte,7,Vila Maria/Vila Guilherme
-90,Vila Mariana,Sul,12,Vila Mariana
-91,Vila Matilde,Leste,21,Penha
-92,Vila Medeiros,Norte,7,Vila Maria/Vila Guilherme
-93,Vila Prudente,Leste,29,Vila Prudente
-94,Vila Sônia,Sul,10,Butantã
-95,São Domingos,Oeste,2,Pirituba
-96,Lajeado,Leste,28,Guaianases
+Distritos,Código IBGE (Distrito),Zona,Subprefeituras,Código IBGE (Subprefeitura),Área (ha),Área (km²)
+Água Rasa,1,Leste,Mooca,25,"717,71","7,18"
+Alto de Pinheiros,2,Oeste,Pinheiros,11,"746,14","7,46"
+Anhanguera,3,Norte,Perus,1,"3.354,76","33,55"
+Aricanduva,4,Leste,Aricanduva/Formosa/Carrão,26,"695,97","6,96"
+Artur Alvim,5,Leste,Penha,21,"650,83","6,51"
+Barra Funda,6,Oeste,Lapa,8,"585,33","5,85"
+Bela Vista,7,Centro,Sé,9,"271,8","2,72"
+Belém,8,Leste,Mooca,25,"604,67","6,05"
+Bom Retiro,9,Centro,Sé,9,"420,58","4,21"
+Brás,10,Leste,Mooca,25,"362,97","3,63"
+Brasilândia,11,Norte,Freguesia/Brasilândia,3,"2.108,06","21,08"
+Butantã,12,Oeste,Butantã,10,"1.295,24","12,95"
+Cachoeirinha,13,Norte,Casa Verde/Cachoeirinha,4,"1.354,44","13,54"
+Cambuci,14,Centro,Sé,9,"392,46","3,92"
+Campo Belo,15,Sul,Santo Amaro,14,"877,35","8,77"
+Campo Grande,16,Sul,Santo Amaro,14,"1.295,16","12,95"
+Campo Limpo,17,Sul,Campo Limpo,17,"1.259,63","12,6"
+Cangaíba,18,Leste,Penha,21,"1.659,64","16,6"
+Capão Redondo,19,Sul,Campo Limpo,17,"1.376,86","13,77"
+Carrão,20,Leste,Aricanduva/Formosa/Carrão,26,"790,27","7,9"
+Casa Verde,21,Norte,Casa Verde/Cachoeirinha,4,"720,36","7,2"
+Cidade Ademar,22,Sul,Cidade Ademar,16,"1.234,28","12,34"
+Cidade Dutra,23,Sul,Capela do Socorro,19,"2.796,58","27,97"
+Cidade Líder,24,Leste,Itaquera,27,"1.035,74","10,36"
+Cidade Tiradentes,25,Leste,Cidade Tiradentes,31,"1.493,85","14,94"
+Consolação,26,Centro,Sé,9,"381,53","3,82"
+Cursino,27,Sul,Ipiranga,13,"1.203,09","12,03"
+Ermelino Matarazzo,28,Leste,Ermelino Matarazzo,22,"938,88","9,39"
+Freguesia do Ó,29,Norte,Freguesia/Brasilândia,3,"1.092,41",11
+Grajaú,30,Sul,Capela do Socorro,19,"9.270,61","92,71"
+Guaianases,31,Leste,Guaianases,28,"894,7","8,95"
+Moema,32,Sul,Vila Mariana,12,"907,95","9,08"
+Iguatemi,33,Leste,São Mateus,30,"1.958,35","19,58"
+Ipiranga,34,Sul,Ipiranga,13,"1.100,58","11,01"
+Itaim Bibi,35,Oeste,Pinheiros,11,"1.002,63","10,03"
+Itaim Paulista,36,Leste,Itaim Paulista,24,"1.214,37","12,14"
+Itaquera,37,Leste,Itaquera,27,"1.472,46","14,72"
+Jabaquara,38,Sul,Jabaquara,15,"1.400,94","14,01"
+Jaçanã,39,Norte,Jaçanã/Tremembé,6,"746,44","7,46"
+Jaguará,40,Oeste,Lapa,8,"457,56","4,58"
+Jaguaré,41,Oeste,Lapa,8,"657,98","6,58"
+Jaraguá,42,Norte,Pirituba,2,"2.833,03","28,33"
+Jardim Ângela,43,Sul,M'Boi Mirim,18,"3.741,19","37,41"
+Jardim Helena,44,Leste,São Miguel,23,"914,85","9,15"
+Jardim Paulista,45,Oeste,Pinheiros,11,"618,66","6,19"
+Jardim São Luis,46,Sul,M'Boi Mirim,18,"2.604,77","26,05"
+José Bonifácio,47,Leste,Itaquera,27,"1.456,60","14,57"
+Lapa,48,Oeste,Lapa,8,"1.028,27","10,28"
+Liberdade,49,Centro,Sé,9,"365,11","3,65"
+Limão,50,Norte,Casa Verde/Cachoeirinha,4,"645,69","6,46"
+Mandaqui,51,Norte,Santana/Tucuruvi,5,"1.324,78","13,25"
+Marsilac,52,Sul,Parelheiros,20,"20.819,57","208,2"
+Moóca,53,Leste,Mooca,25,"794,89","7,95"
+Morumbi,54,Oeste,Butantã,10,"1.148,93","11,49"
+Parelheiros,55,Sul,Parelheiros,20,"15.261,41","152,61"
+Pari,56,Leste,Mooca,25,"272,99","2,73"
+Parque do Carmo,57,Leste,Itaquera,27,"1.545,53","15,46"
+Pedreira,58,Sul,Cidade Ademar,16,"1.832,82","18,33"
+Penha,59,Leste,Penha,21,"1.148,20","11,48"
+Perdizes,60,Oeste,Lapa,8,"633,77","6,34"
+Perus,61,Norte,Perus,1,"2.366,39","23,66"
+Pinheiros,62,Oeste,Pinheiros,11,"831,91","8,32"
+Pirituba,63,Norte,Pirituba,2,"1.721,57","17,22"
+Ponte Rasa,64,Leste,Ermelino Matarazzo,22,"659,66","6,6"
+Raposo Tavares,65,Oeste,Butantã,10,"1.243,38","12,44"
+República,66,Centro,Sé,9,"239,69","2,4"
+Rio Pequeno,67,Oeste,Butantã,10,"954,23","9,54"
+Sacomã,68,Sul,Ipiranga,13,"1.456,20","14,56"
+Santa Cecília,69,Centro,Sé,9,"375,95","3,76"
+Santana,70,Norte,Santana/Tucuruvi,5,"1.309,17","13,09"
+Santo Amaro,71,Sul,Santo Amaro,14,"1.603,62","16,04"
+São Lucas,72,Leste,Vila Prudente,29,"967,59","9,68"
+São Mateus,73,Leste,São Mateus,30,"1.282,09","12,82"
+São Miguel,74,Leste,São Miguel,23,"862,6","8,63"
+São Rafael,75,Leste,São Mateus,30,"1.308,14","13,08"
+Sapopemba,76,Leste,Sapopemba,32,"1.361,31","13,61"
+Saúde,77,Sul,Vila Mariana,12,"930,71","9,31"
+Sé,78,Centro,Sé,9,"219,38","2,19"
+Socorro,79,Sul,Capela do Socorro,19,"1.196,54","11,97"
+Tatuapé,80,Leste,Mooca,25,"851,43","8,51"
+Tremembé,81,Norte,Jaçanã/Tremembé,6,"5.751,30","57,51"
+Tucuruvi,82,Norte,Santana/Tucuruvi,5,"944,09","9,44"
+Vila Andrade,83,Sul,Campo Limpo,17,"1.030,68","10,31"
+Vila Curuçá,84,Leste,Itaim Paulista,24,"946,45","9,46"
+Vila Formosa,85,Leste,Aricanduva/Formosa/Carrão,26,"747,32","7,47"
+Vila Guilherme,86,Norte,Vila Maria/Vila Guilherme,7,"720,05","7,2"
+Vila Jacuí,87,Leste,São Miguel,23,"827,94","8,28"
+Vila Leopoldina,88,Oeste,Lapa,8,"699,25","6,99"
+Vila Maria,89,Norte,Vila Maria/Vila Guilherme,7,"1.184,26","11,84"
+Vila Mariana,90,Sul,Vila Mariana,12,"859,77","8,6"
+Vila Matilde,91,Leste,Penha,21,"876,91","8,77"
+Vila Medeiros,92,Norte,Vila Maria/Vila Guilherme,7,"785,56","7,86"
+Vila Prudente,93,Leste,Vila Prudente,29,"958,49","9,58"
+Vila Sônia,94,Oeste,Butantã,10,"999,03","9,99"
+São Domingos,95,Norte,Pirituba,2,"988,71","9,89"
+Lajeado,96,Leste,Guaianases,28,"881,69","8,82"
