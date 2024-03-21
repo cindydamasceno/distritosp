@@ -1,6 +1,7 @@
-## Distritos e Subdistritos de São Paulo com Códigos IBGE e Zonas no padrão da Prefeitura da Capital 
-
+### Distritos e Subdistritos de São Paulo 
+Listagem com códigos IBGE dos distritos e respectivas zonas no padrão da Prefeitura da Capital.  
 <hr>
+
 
 | COLUNA | REFERÊNCIA |
 | --------- | ----------- | 
