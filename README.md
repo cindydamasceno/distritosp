@@ -2,8 +2,8 @@
 
 
 
-| Coluna | Referência 
---------- -----------
+| Coluna | Referência |
+| --------- | ----------- | 
 | Distritos |	Prefeitura de São Paulo |
 | Código IBGE (Distrito) |	IBGE |
 | Zona	| Prefeitura de São Paulo |
